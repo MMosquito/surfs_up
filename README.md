@@ -7,11 +7,10 @@
 
 ## RESULTS
   
-    1. The overall count of temperatures gathered for the months of June and December were 1700 and 1517 respectively.  These total counts provide enough          date to make a conclusive decision on whether or not this business is sustainable year round.  
+    1. The overall count of temperatures gathered for the months of June and December were 1700 and 1517 respectively.  
+    These total counts provide enough date to make a conclusive decision on whether or not this business is sustainable year round.  
     
-            ![JuneTemps](https://user-images.githubusercontent.com/14171474/216845612-c4b84357-7d64-457d-a29e-b055b83b6ed3.png)
-    
-             ![DecemberTemps](https://user-images.githubusercontent.com/14171474/216845632-9f6f29ed-4239-4560-82ef-c6b39de5154b.png)
+   ![JuneTemps](https://user-images.githubusercontent.com/14171474/216845612-c4b84357-7d64-457d-a29e-b055b83b6ed3.png)               ![DecemberTemps](https://user-images.githubusercontent.com/14171474/216845632-9f6f29ed-4239-4560-82ef-c6b39de5154b.png)
 
     2. The max temperatures in June were quite similar to the max temperatures in December with only a 2° difference. 
       
